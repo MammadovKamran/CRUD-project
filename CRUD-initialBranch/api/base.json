@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "name": "Mouse",
+      "quantity": "100",
+      "seller": "A4tech",
+      "price": "20",
+      "id": 1
+    },
+    {
+      "name": "Keyboard",
+      "quantity": "8",
+      "seller": "logitech",
+      "price": "23",
+      "id": 2
+    },
+    {
+      "name": "Phone",
+      "quantity": "5",
+      "seller": "MI",
+      "price": "230",
+      "id": 3
+    }
+  ],
+  "categories": []
+}

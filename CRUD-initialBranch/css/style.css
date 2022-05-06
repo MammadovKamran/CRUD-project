@@ -1,0 +1,50 @@
+:root {
+  --bg-body:#FBFAFA!important;
+}
+
+
+body > div {
+  background-color:var(--bg-body);
+  height: 100vh !important;
+  min-height: 100vh !important;
+}
+
+h1 {
+  color: #0095ED!important;
+}
+
+.d-flex {
+  justify-content: space-between;
+}
+
+.justify-between {
+  justify-content: space-between;
+}
+
+
+.container_padding {
+  padding-left: 8%!important;
+  padding-right: 8%!important;
+}
+
+.my_grid,
+.price_grid {
+  display: grid;
+  grid-gap: 1.25rem;
+}
+
+.my_grid {
+
+  grid-template-columns: repeat(2,1fr);
+
+}
+
+.price_grid {
+  grid-template-columns: 4fr 1fr;
+}
+
+.grid_layout > input {
+  width: 100%!important;
+}
+
+
